@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ibrahim oladipupo</h1>
+![ib-profile](https://github.com/Ibthecoder/ibthecoder/assets/114221540/5af42d83-f0f0-41a9-bc66-8f244aada191)
+
+<h1 align="center">oladipupo  Ibrahim</h1>
 <h3 align="center">I'm Ibrahim, known as "IB". I'm a skilled Full-stack Developer and Software Engineer proficient in developing both web and desktop applications..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="ibthecoder" /> </p>
