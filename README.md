@@ -1,4 +1,5 @@
-![ib-profile](https://github.com/Ibthecoder/ibthecoder/assets/114221540/5af42d83-f0f0-41a9-bc66-8f244aada191)
+![main-bg](https://github.com/Ibthecoder/ibthecoder/assets/114221540/bc200a77-5134-48bf-bf37-b5ef60b7486c)
+
 
 <h1 align="center">oladipupo  Ibrahim</h1>
 <h3 align="center">I'm Ibrahim, known as "IB". I'm a skilled Full-stack Developer and Software Engineer proficient in developing both web and desktop applications..</h3>
