@@ -2,7 +2,7 @@
 
 
 <h1 align="center">oladipupo  Ibrahim</h1>
-<h3 align="center">I'm Ibrahim, known as "IB". I'm a skilled Full-stack Developer and Software Engineer proficient in developing both web and desktop applications..</h3>
+<h3 align="center">I'm Ibrahim, known as "Brahim". I'm a skilled Full-stack Developer and Software Engineer proficient in developing both web and desktop applications..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="ibthecoder" /> </p>
 
