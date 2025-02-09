@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="ibthecoder" /> </p>
 
-- 💬 Ask me about **JavaSwing / JSP, Servlet /Spring Boot /Spring MVC/ Hibernate/ Thymeleaf/ HTML / CSS/BootStrap**
+- 💬 Ask me about **JavaSwing / JSP, Servlet /Spring Boot /Spring MVC/ Hibernate/ Thymeleaf/ HTML / CSS/BootStrap /Tailwindcss/React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
