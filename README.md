@@ -1,4 +1,4 @@
-![main-bg](https://github.com/Ibthecoder/ibthecoder/assets/114221540/bc200a77-5134-48bf-bf37-b5ef60b7486c)
+
 
 
 <h1 align="center">Hi, I'm Oladipupo Ibrahim 👋</h1>
