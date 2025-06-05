@@ -1,26 +1,72 @@
 ![main-bg](https://github.com/Ibthecoder/ibthecoder/assets/114221540/bc200a77-5134-48bf-bf37-b5ef60b7486c)
 
 
-<h1 align="center">oladipupo  Ibrahim</h1>
-<h3 align="center">I'm Ibrahim, known as "Brahim". I'm a skilled Full-stack Developer and Software Engineer proficient in developing both web and desktop applications..</h3>
+<h1 align="center">Hi, I'm Oladipupo Ibrahim 👋</h1>
+<h3 align="center">Full-Stack Developer | Java Engineer | Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="ibthecoder" /> </p>
-
-- 💬 Ask me about **JavaSwing / JSP, Servlet /Spring Boot /Spring MVC/ Hibernate/ Thymeleaf/ HTML / CSS/BootStrap /Tailwindcss/React**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ibthecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibthecoder" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/oladipupo-ibrahim-165404251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oladipupo-ibrahim-165404251/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ibthecoder/?next=%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ibthecoder/?next=%2f" height="30" width="40" /></a>
+<p align="center">
+  Passionate about building robust web and desktop applications using modern tools and frameworks.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibthecoder&show_icons=true&locale=en&layout=compact" alt="ibthecoder" /></p>
+### 🧑‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibthecoder&show_icons=true&locale=en" alt="ibthecoder" /></p>
+- 👨‍💻 Full-Stack Developer specialized in Java backend and modern frontend technologies.
+- 🌱 Currently improving my skills in Spring Boot, React, and API development.
+- 💬 Ask me about Java Swing, JSP/Servlets, Spring Boot, React, and TailwindCSS.
+- 🧠 I love mentoring and learning — tech is a journey, not a destination.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibthecoder&" alt="ibthecoder" /></p>
+---
+
+### ⚙️ Tech Stack
+
+#### 💻 Backend:
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+
+#### 🖥️ Frontend:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+
+#### 🛠 Tools:
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://twitter.com/ibthecoder" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/oladipupo-ibrahim-165404251/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ibthecoder/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibthecoder&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibthecoder&theme=github-dark" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibthecoder&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
 
